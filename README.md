@@ -36,6 +36,6 @@ A Faculdade Full Cycle de Tecnologia (FCTECH) é dedicada a cursos de pós-gradu
 
 Página “Nossos Cursos”: disponível pelo site oficial.
 
-## Estrutura sugerida deste repositório
+## Estrutura deste repositório
 
 Organizado os estudos por programa/curso e módulo, mantendo um README por diretório com instruções de execução, dependências e anotações.
